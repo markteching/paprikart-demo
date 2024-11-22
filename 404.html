@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+        (function() {
+            // Determine the base path
+            var basePath = '/paprikart-demo/';
+            
+            // Extract the first valid segment (the locale) after the base path and drop the rest
+            var validPath = basePath + location.pathname.substring(basePath.length).split('/')[0] + '/';
+
+            // Perform a seamless redirect
+            location.replace(validPath);
+        })();
+    </script>
+</head>
+<body>
+</body>
+</html>

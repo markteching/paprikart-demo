@@ -1,0 +1,2710 @@
+{
+    "categories": {
+        "milled_products": {
+            "categoryPath": "milled_products",
+            "categoryName_hu": "Őrlemények",
+            "categoryName_en": "Milled products",
+            "products": [
+                {
+                    "barcode": "5998304611914",
+                    "imgCount": 2,
+                    "productName_hu": "Eredetvédett kalocsai fűszerpaprika-őrlemény, finom őrlésű 40g",
+                    "productName_en": "Protected origin Kalocsa paprika ground, finely ground 40g",
+                    "weight": "40",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "20 db / karton",
+                    "packagingInfo_en": "20 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611914",
+                        "75": "5998304611921",
+                        "100": "5998304612058",
+                        "200": "5998304612065"
+                    }
+                },
+                {
+                    "barcode": "5998304611921",
+                    "imgCount": 2,
+                    "productName_hu": "Eredetvédett kalocsai fűszerpaprika-őrlemény, finom őrlésű 75g",
+                    "productName_en": "Protected origin Kalocsa paprika ground, finely ground 75g",
+                    "weight": "75",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611914",
+                        "75": "5998304611921",
+                        "100": "5998304612058",
+                        "200": "5998304612065"
+                    }
+                },
+                {
+                    "barcode": "5998304612058",
+                    "imgCount": 2,
+                    "productName_hu": "Eredetvédett kalocsai fűszerpaprika-őrlemény, finom őrlésű 100g",
+                    "productName_en": "Protected origin Kalocsa paprika ground, finely ground 100g",
+                    "weight": "100",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611914",
+                        "75": "5998304611921",
+                        "100": "5998304612058",
+                        "200": "5998304612065"
+                    }
+                },
+                {
+                    "barcode": "5998304612065",
+                    "imgCount": 2,
+                    "productName_hu": "Eredetvédett kalocsai fűszerpaprika-őrlemény, finom őrlésű 200g",
+                    "productName_en": "Protected origin Kalocsa paprika ground, finely ground 200g",
+                    "weight": "200",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "6 db / karton",
+                    "packagingInfo_en": "6 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611914",
+                        "75": "5998304611921",
+                        "100": "5998304612058",
+                        "200": "5998304612065"
+                    }
+                },
+                {
+                    "barcode": "5998304611938",
+                    "imgCount": 2,
+                    "productName_hu": "Eredetvédett kalocsai fűszerpaprika-őrlemény, hagyományos feldolgozású 40g",
+                    "productName_en": "Protected origin Kalocsa paprika ground, traditionally processed 40g",
+                    "weight": "40",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "20 db / karton, 144 karton / raklap",
+                    "packagingInfo_en": "20 pcs / cardboard, 144 cardboards / palette",
+                    "availableOtherVariants": {
+                        "40": "5998304611938",
+                        "75": "5998304611945",
+                        "200": "5998304612041",
+                        "800": "5998304612072"
+                    }
+                },
+                {
+                    "barcode": "5998304611945",
+                    "imgCount": 2,
+                    "productName_hu": "Eredetvédett kalocsai fűszerpaprika-őrlemény, hagyományos feldolgozású 75g",
+                    "productName_en": "Protected origin Kalocsa paprika ground, traditionally processed 75g",
+                    "weight": "75",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton, 144 karton / raklap",
+                    "packagingInfo_en": "16 pcs / cardboard, 144 cardboards / palette",
+                    "availableOtherVariants": {
+                        "40": "5998304611938",
+                        "75": "5998304611945",
+                        "200": "5998304612041",
+                        "800": "5998304612072"
+                    }
+                },
+                {
+                    "barcode": "5998304612041",
+                    "imgCount": 2,
+                    "productName_hu": "Eredetvédett kalocsai fűszerpaprika-őrlemény, hagyományos feldolgozású 200g",
+                    "productName_en": "Protected origin Kalocsa paprika ground, traditionally processed 200g",
+                    "weight": "200",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "8 db / karton, 144 karton / raklap",
+                    "packagingInfo_en": "8 pcs / cardboard, 144 cardboards / palette",
+                    "availableOtherVariants": {
+                        "40": "5998304611938",
+                        "75": "5998304611945",
+                        "200": "5998304612041",
+                        "800": "5998304612072"
+                    }
+                },
+                {
+                    "barcode": "5998304612072",
+                    "imgCount": 4,
+                    "productName_hu": "Eredetvédett kalocsai fűszerpaprika-őrlemény, hagyományos feldolgozású 800g",
+                    "productName_en": "Protected origin Kalocsa paprika ground, traditionally processed 800g",
+                    "weight": "800",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "5 db / karton, 108 karton / raklap",
+                    "packagingInfo_en": "5 pcs / cardboard, 108 cardboards / palette",
+                    "availableOtherVariants": {
+                        "40": "5998304611938",
+                        "75": "5998304611945",
+                        "200": "5998304612041",
+                        "800": "5998304612072"
+                    }
+                },
+                {
+                    "barcode": "5998304611457",
+                    "imgCount": 2,
+                    "productName_hu": "I. osztályú fűszerpaprika-őrlemény, csípősségmentes 40g",
+                    "productName_en": "Class I ground paprika, non-spicy 40g",
+                    "weight": "40",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "20 db / karton",
+                    "packagingInfo_en": "20 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611457",
+                        "75": "5998304611464",
+                        "200": "5998304611327",
+                        "800": "5998304611488"
+                    }
+                },
+                {
+                    "barcode": "5998304611464",
+                    "imgCount": 1,
+                    "productName_hu": "I. osztályú fűszerpaprika-őrlemény, csípősségmentes 75g",
+                    "productName_en": "Class I ground paprika, non-spicy 75g",
+                    "weight": "75",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611457",
+                        "75": "5998304611464",
+                        "200": "5998304611327",
+                        "800": "5998304611488"
+                    }
+                },
+                {
+                    "barcode": "5998304611327",
+                    "imgCount": 3,
+                    "productName_hu": "I. osztályú fűszerpaprika-őrlemény, csípősségmentes 200g",
+                    "productName_en": "Class I ground paprika, non-spicy 200g",
+                    "weight": "200",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "8 db / karton",
+                    "packagingInfo_en": "8 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611457",
+                        "75": "5998304611464",
+                        "200": "5998304611327",
+                        "800": "5998304611488"
+                    }
+                },
+                {
+                    "barcode": "5998304611488",
+                    "imgCount": 3,
+                    "productName_hu": "I. osztályú fűszerpaprika-őrlemény, csípősségmentes 800g",
+                    "productName_en": "Class I ground paprika, non-spicy 800g",
+                    "weight": "800",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "5 db / karton",
+                    "packagingInfo_en": "5 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611457",
+                        "75": "5998304611464",
+                        "200": "5998304611327",
+                        "800": "5998304611488"
+                    }
+                },
+                {
+                    "barcode": "5998304611495",
+                    "imgCount": 2,
+                    "productName_hu": "I. osztályú fűszerpaprika-őrlemény, csípős 75g",
+                    "productName_en": "Class I ground paprika, spicy 75g",
+                    "weight": "75",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "75": "5998304611495",
+                        "200": "5998304611501"
+                    }
+                },
+                {
+                    "barcode": "5998304611501",
+                    "imgCount": 3,
+                    "productName_hu": "I. osztályú fűszerpaprika-őrlemény, csípős 200g",
+                    "productName_en": "Class I ground paprika, spicy 200g",
+                    "weight": "200",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "8 db / karton",
+                    "packagingInfo_en": "8 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "75": "5998304611495",
+                        "200": "5998304611501"
+                    }
+                },
+                {
+                    "barcode": "5998304611525",
+                    "imgCount": 2,
+                    "productName_hu": "II. osztályú fűszerpaprika-őrlemény, csípősségmentes 40g",
+                    "productName_en": "Class II ground paprika, non-spicy 40g",
+                    "weight": "40",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "20 db / karton",
+                    "packagingInfo_en": "20 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611525",
+                        "75": "5998304611532",
+                        "200": "5998304611396",
+                        "800": "5998304611563"
+                    }
+                },
+                {
+                    "barcode": "5998304611532",
+                    "imgCount": 2,
+                    "productName_hu": "II. osztályú fűszerpaprika-őrlemény, csípősségmentes 75g",
+                    "productName_en": "Class II ground paprika, non-spicy 75g",
+                    "weight": "75",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611525",
+                        "75": "5998304611532",
+                        "200": "5998304611396",
+                        "800": "5998304611563"
+                    }
+                },
+                {
+                    "barcode": "5998304611396",
+                    "imgCount": 3,
+                    "productName_hu": "II. osztályú fűszerpaprika-őrlemény, csípősségmentes 200g",
+                    "productName_en": "Class II ground paprika, non-spicy 200g",
+                    "weight": "200",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "8 db / karton",
+                    "packagingInfo_en": "8 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611525",
+                        "75": "5998304611532",
+                        "200": "5998304611396",
+                        "800": "5998304611563"
+                    }
+                },
+                {
+                    "barcode": "5998304611563",
+                    "imgCount": 3,
+                    "productName_hu": "II. osztályú fűszerpaprika-őrlemény, csípősségmentes 800g",
+                    "productName_en": "Class II ground paprika, non-spicy 800g",
+                    "weight": "800",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "5 db / karton",
+                    "packagingInfo_en": "5 pcs / cardboard",
+                    "availableOtherVariants": {
+                        "40": "5998304611525",
+                        "75": "5998304611532",
+                        "200": "5998304611396",
+                        "800": "5998304611563"
+                    }
+                },
+                {
+                    "barcode": "5998304688923",
+                    "imgCount": 2,
+                    "productName_hu": "Halászlé fűszerkeverék 80g",
+                    "productName_en": "Fish soup spice mix 80g",
+                    "weight": "80",
+                    "shelfLife_hu": "Gyártástól számított 18 hónap",
+                    "shelfLife_en": "18 months after production",
+                    "packagingInfo_hu": "25 db / karton",
+                    "packagingInfo_en": "25 pcs / cardboard"
+                }
+            ]
+        },
+        "wet_seasoning": {
+            "categoryPath": "wet_seasoning",
+            "categoryName_hu": "Nedves ételízesítők",
+            "categoryName_en": "Wet seasoning",
+            "products": [
+                {
+                    "barcode": "5998304620015",
+                    "imgCount": 2,
+                    "productName_hu": "Asztali torma 210g",
+                    "productName_en": "Horseradish 210g",
+                    "weight": "210",
+                    "shelfLife_hu": "Gyártástól számított 12 hónap",
+                    "shelfLife_en": "12 months after production",
+                    "packagingInfo_hu": "8 db / karton",
+                    "packagingInfo_en": "8 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Darált torma (51%)",
+                        "ivóvíz",
+                        "ételecet",
+                        "finomított napraforgó étolaj",
+                        "cukor",
+                        "módosított kukoricakeményítő",
+                        "étkezési só",
+                        "tojássárgájapor",
+                        "étkezési sav (citromsav)",
+                        "sűrítőanyag (xantán)",
+                        "fűszerek",
+                        "mustármag",
+                        "antioxidáns (K-metabiszulfit)",
+                        "tartósítószer (K-szorbát, Na-benzoát)",
+                        "aromák"
+                    ],
+                    "ingredients_en": [
+                        "Ground horseradish (51%)",
+                        "drinking water",
+                        "cooking vinegar",
+                        "refined sunflower cooking oil",
+                        "sugar",
+                        "modified corn starch",
+                        "table salt",
+                        "egg yolk powder",
+                        "food acid (citric acid)",
+                        "thickener (xanthan)",
+                        "spices",
+                        "mustard seed",
+                        "antioxidant (K-metabisulphite)",
+                        "preservative (K -sorbate",
+                        "Na-benzoate)",
+                        "aromas"
+                    ],
+                    "availableOtherVariants": {
+                        "210": "5998304620015",
+                        "2500": "5998304620411",
+                        "5000": "5998304620428"
+                    }
+                },
+                {
+                    "barcode": "5998304620411",
+                    "imgCount": 1,
+                    "productName_hu": "Asztali torma 2500g",
+                    "productName_en": "Horseradish 2500g",
+                    "weight": "2500",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Darált torma (51%)",
+                        "ivóvíz",
+                        "ételecet",
+                        "finomított napraforgó étolaj",
+                        "cukor",
+                        "módosított kukoricakeményítő",
+                        "étkezési só",
+                        "tojássárgájapor",
+                        "étkezési sav (citromsav)",
+                        "sűrítőanyag (xantán)",
+                        "fűszerek",
+                        "mustármag",
+                        "antioxidáns (K-metabiszulfit)",
+                        "tartósítószer (K-szorbát, Na-benzoát)",
+                        "aromák"
+                    ],
+                    "ingredients_en": [
+                        "Ground horseradish (51%)",
+                        "drinking water",
+                        "cooking vinegar",
+                        "refined sunflower cooking oil",
+                        "sugar",
+                        "modified corn starch",
+                        "table salt",
+                        "egg yolk powder",
+                        "food acid (citric acid)",
+                        "thickener (xanthan)",
+                        "spices",
+                        "mustard seed",
+                        "antioxidant (K-metabisulphite)",
+                        "preservative (K -sorbate",
+                        "Na-benzoate)",
+                        "aromas"
+                    ],
+                    "availableOtherVariants": {
+                        "210": "5998304620015",
+                        "2500": "5998304620411",
+                        "5000": "5998304620428"
+                    }
+                },
+                {
+                    "barcode": "5998304620428",
+                    "imgCount": 1,
+                    "productName_hu": "Asztali torma 5000g",
+                    "productName_en": "Horseradish 5000g",
+                    "weight": "5000",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Darált torma (51%)",
+                        "ivóvíz",
+                        "ételecet",
+                        "finomított napraforgó étolaj",
+                        "cukor",
+                        "módosított kukoricakeményítő",
+                        "étkezési só",
+                        "tojássárgájapor",
+                        "étkezési sav (citromsav)",
+                        "sűrítőanyag (xantán)",
+                        "fűszerek",
+                        "mustármag",
+                        "antioxidáns (K-metabiszulfit)",
+                        "tartósítószer (K-szorbát, Na-benzoát)",
+                        "aromák"
+                    ],
+                    "ingredients_en": [
+                        "Ground horseradish (51%)",
+                        "drinking water",
+                        "cooking vinegar",
+                        "refined sunflower cooking oil",
+                        "sugar",
+                        "modified corn starch",
+                        "table salt",
+                        "egg yolk powder",
+                        "food acid (citric acid)",
+                        "thickener (xanthan)",
+                        "spices",
+                        "mustard seed",
+                        "antioxidant (K-metabisulphite)",
+                        "preservative (K -sorbate",
+                        "Na-benzoate)",
+                        "aromas"
+                    ],
+                    "availableOtherVariants": {
+                        "210": "5998304620015",
+                        "2500": "5998304620411",
+                        "5000": "5998304620428"
+                    }
+                },
+                {
+                    "barcode": "5998304620237",
+                    "imgCount": 2,
+                    "productName_hu": "Majonézes torma 210g",
+                    "productName_en": "Horseradish with mayonnaise 210g",
+                    "weight": "210",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "8 db / karton",
+                    "packagingInfo_en": "8 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Darált torma (33%)",
+                        "ivóvíz",
+                        "növényi olaj",
+                        "ételecet",
+                        "kristálycukor",
+                        "tojássárgájapor",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "mustármag",
+                        "étkezési sav (citromsav)",
+                        "sűrítőanyag (xanthan)",
+                        "antioxidáns (K-metabiszulfit)",
+                        "tartósítószer (K-szorbát)",
+                        "aroma",
+                        "fűszerek"
+                    ],
+                    "ingredients_en": [
+                        "Ground horseradish (33%)",
+                        "drinking water",
+                        "vegetable oil",
+                        "food vinegar",
+                        "granulated sugar",
+                        "egg yolk powder",
+                        "table salt",
+                        "modified corn starch",
+                        "mustard seed",
+                        "food acid (citric acid)",
+                        "thickener (xanthan)",
+                        "antioxidant (K-metabisulphite)",
+                        "preservative (K-sorbate)",
+                        "aroma",
+                        "spices"
+                    ]
+                },
+                {
+                    "barcode": "5998304620022",
+                    "imgCount": 2,
+                    "productName_hu": "Darált erőspaprika 210g",
+                    "productName_en": "Ground strong paprika 210g",
+                    "weight": "210",
+                    "shelfLife_hu": "Gyártástól számított 12 hónap",
+                    "shelfLife_en": "12 months after production",
+                    "packagingInfo_hu": "8 db / karton",
+                    "packagingInfo_en": "8 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (erős és édes, 87%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spices and pritamine peppers (strong and sweet, 87%)",
+                        "table salt",
+                        "modified corn starch",
+                        "table acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "210": "5998304620022",
+                        "2500": "5998304620473",
+                        "5000": "5998304620480"
+                    }
+                },
+                {
+                    "barcode": "5998304620473",
+                    "imgCount": 1,
+                    "productName_hu": "Darált erőspaprika 2500g",
+                    "productName_en": "Ground strong paprika 2500g",
+                    "weight": "2500",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (erős és édes, 87%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spices and pritamine peppers (strong and sweet, 87%)",
+                        "table salt",
+                        "modified corn starch",
+                        "table acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "210": "5998304620022",
+                        "2500": "5998304620473",
+                        "5000": "5998304620480"
+                    }
+                },
+                {
+                    "barcode": "5998304620480",
+                    "imgCount": 1,
+                    "productName_hu": "Darált erőspaprika 5000g",
+                    "productName_en": "Ground strong paprika 5000g",
+                    "weight": "5000",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (erős és édes, 87%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spices and pritamine peppers (strong and sweet, 87%)",
+                        "table salt",
+                        "modified corn starch",
+                        "table acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "210": "5998304620022",
+                        "2500": "5998304620473",
+                        "5000": "5998304620480"
+                    }
+                },
+                {
+                    "barcode": "5998304620206",
+                    "imgCount": 2,
+                    "productName_hu": "Darált édespaprika 210g",
+                    "productName_en": "Ground sweet paprika 210g",
+                    "weight": "210",
+                    "shelfLife_hu": "Gyártástól számított 12 hónap",
+                    "shelfLife_en": "12 months after production",
+                    "packagingInfo_hu": "8 db / karton",
+                    "packagingInfo_en": "8 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (87%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (Kálium-szorbát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (87%)",
+                        "table salt",
+                        "modified corn starch",
+                        "food acid (citric acid)",
+                        "preservative (potassium sorbate)"
+                    ],
+                    "availableOtherVariants": {
+                        "210": "5998304620206",
+                        "2500": "5998304620213",
+                        "5000": "5998304620220"
+                    }
+                },
+                {
+                    "barcode": "5998304620213",
+                    "imgCount": 1,
+                    "productName_hu": "Darált édespaprika 2500g",
+                    "productName_en": "Ground sweet paprika 2500g",
+                    "weight": "2500",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (87%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (Kálium-szorbát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (87%)",
+                        "table salt",
+                        "modified corn starch",
+                        "food acid (citric acid)",
+                        "preservative (potassium sorbate)"
+                    ],
+                    "availableOtherVariants": {
+                        "210": "5998304620206",
+                        "2500": "5998304620213",
+                        "5000": "5998304620220"
+                    }
+                },
+                {
+                    "barcode": "5998304620220",
+                    "imgCount": 1,
+                    "productName_hu": "Darált édespaprika 5000g",
+                    "productName_en": "Ground sweet paprika 5000g",
+                    "weight": "5000",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (87%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (Kálium-szorbát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (87%)",
+                        "table salt",
+                        "modified corn starch",
+                        "food acid (citric acid)",
+                        "preservative (potassium sorbate)"
+                    ],
+                    "availableOtherVariants": {
+                        "210": "5998304620206",
+                        "2500": "5998304620213",
+                        "5000": "5998304620220"
+                    }
+                },
+                {
+                    "barcode": "5998304621371",
+                    "imgCount": 3,
+                    "productName_hu": "Extra erős darált paprika 200g",
+                    "productName_en": "Ground extra strong paprika 200g",
+                    "weight": "200",
+                    "shelfLife_hu": "Gyártástól számított 12 hónap",
+                    "shelfLife_en": "12 months after production",
+                    "packagingInfo_hu": "6 db / karton",
+                    "packagingInfo_en": "6 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (erős 87 %)",
+                        "étkezési só",
+                        "módosított keményítő",
+                        "sűrítőanyag (xantángumi)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (Kálium-szorbát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (strong 87%)",
+                        "table salt",
+                        "modified starch",
+                        "thickener (xanthan gum)",
+                        "food acid (citric acid)",
+                        "preservative (potassium sorbate)"
+                    ]
+                },
+                {
+                    "barcode": "5998304620329",
+                    "imgCount": 2,
+                    "productName_hu": "Fokhagymakrém 70g",
+                    "productName_en": "Garlic cream 70g",
+                    "weight": "70",
+                    "shelfLife_hu": "Gyártástól számított 6 hónap",
+                    "shelfLife_en": "6 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Fokhagyma (60%)",
+                        "ivóvíz",
+                        "étkezési só",
+                        "finomított napraforgó étolaj",
+                        "módosított kukoricakeményítő",
+                        "étkezési sav (citromsav)",
+                        "sűrítőanyag (xantán)",
+                        "antioxidáns (K-metabiszulfit)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Garlic (60%)",
+                        "drinking water",
+                        "table salt",
+                        "refined sunflower cooking oil",
+                        "modified corn starch",
+                        "food acid (citric acid)",
+                        "thickener (xanthan)",
+                        "antioxidant (K-metabisulphite)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304620329",
+                        "2500": "5998304620510",
+                        "5000": "5998304620527"
+                    }
+                },
+                {
+                    "barcode": "5998304620510",
+                    "imgCount": 1,
+                    "productName_hu": "Fokhagymakrém 2500g",
+                    "productName_en": "Garlic cream 2500g",
+                    "weight": "2500",
+                    "shelfLife_hu": "Gyártástól számított 6 hónap",
+                    "shelfLife_en": "6 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Fokhagyma (60%)",
+                        "ivóvíz",
+                        "étkezési só",
+                        "finomított napraforgó étolaj",
+                        "módosított kukoricakeményítő",
+                        "étkezési sav (citromsav)",
+                        "sűrítőanyag (xantán)",
+                        "antioxidáns (K-metabiszulfit)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Garlic (60%)",
+                        "drinking water",
+                        "table salt",
+                        "refined sunflower cooking oil",
+                        "modified corn starch",
+                        "food acid (citric acid)",
+                        "thickener (xanthan)",
+                        "antioxidant (K-metabisulphite)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304620329",
+                        "2500": "5998304620510",
+                        "5000": "5998304620527"
+                    }
+                },
+                {
+                    "barcode": "5998304620527",
+                    "imgCount": 1,
+                    "productName_hu": "Fokhagymakrém 5000g",
+                    "productName_en": "Garlic cream 5000g",
+                    "weight": "5000",
+                    "shelfLife_hu": "Gyártástól számított 6 hónap",
+                    "shelfLife_en": "6 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Fokhagyma (60%)",
+                        "ivóvíz",
+                        "étkezési só",
+                        "finomított napraforgó étolaj",
+                        "módosított kukoricakeményítő",
+                        "étkezési sav (citromsav)",
+                        "sűrítőanyag (xantán)",
+                        "antioxidáns (K-metabiszulfit)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Garlic (60%)",
+                        "drinking water",
+                        "table salt",
+                        "refined sunflower cooking oil",
+                        "modified corn starch",
+                        "food acid (citric acid)",
+                        "thickener (xanthan)",
+                        "antioxidant (K-metabisulphite)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304620329",
+                        "2500": "5998304620510",
+                        "5000": "5998304620527"
+                    }
+                },
+                {
+                    "barcode": "5998304621562",
+                    "imgCount": 2,
+                    "productName_hu": "Csemege gulyáskrém 70g",
+                    "productName_en": "Non-spicy Goulasch cream 70g",
+                    "weight": "70",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (68%)",
+                        "étkezési só",
+                        "sűrített paradicsom",
+                        "finomított napraforgó étolaj",
+                        "vöröshagymapor",
+                        "fűszerek",
+                        "cukor",
+                        "módosított kukoricakeményítő",
+                        "ízfokozó (Na-glutamát)",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "zeller",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spices and pritamine peppers (68%)",
+                        "table salt",
+                        "concentrated tomatoes",
+                        "refined sunflower cooking oil",
+                        "red onion powder",
+                        "spices",
+                        "sugar",
+                        "modified corn starch",
+                        "flavor enhancer (Na-glutamate)",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "celery",
+                        "preservative (K-sorbate, Na-benzoate)."
+                    ],
+                    "nutrition_facts": {
+                        "energy_kj": "399",
+                        "energy_kcal": "96",
+                        "fat": "6,40",
+                        "fatty_acids": "0,70",
+                        "carbohydrates": "8,00",
+                        "sugars": "3,00",
+                        "protein": "1,60",
+                        "sodium": "12,50"
+                    },
+                    "availableOtherVariants": {
+                        "70": "5998304621562",
+                        "80,5": "5998304620671",
+                        "160": "5998304620343",
+                        "2500": "5998304620558",
+                        "5000": "5998304620565"
+                    }
+                },
+                {
+                    "barcode": "5998304620671",
+                    "imgCount": 2,
+                    "productName_hu": "Csemege gulyáskrém 80,5g",
+                    "productName_en": "Non-spicy Goulasch cream 80,5g",
+                    "weight": "80,5",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (68%)",
+                        "étkezési só",
+                        "sűrített paradicsom",
+                        "finomított napraforgó étolaj",
+                        "vöröshagymapor",
+                        "fűszerek",
+                        "cukor",
+                        "módosított kukoricakeményítő",
+                        "ízfokozó (Na-glutamát)",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "zeller",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spices and pritamine peppers (68%)",
+                        "table salt",
+                        "concentrated tomatoes",
+                        "refined sunflower cooking oil",
+                        "red onion powder",
+                        "spices",
+                        "sugar",
+                        "modified corn starch",
+                        "flavor enhancer (Na-glutamate)",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "celery",
+                        "preservative (K-sorbate, Na-benzoate)."
+                    ],
+                    "nutrition_facts": {
+                        "energy_kj": "399",
+                        "energy_kcal": "96",
+                        "fat": "6,40",
+                        "fatty_acids": "0,70",
+                        "carbohydrates": "8,00",
+                        "sugars": "3,00",
+                        "protein": "1,60",
+                        "sodium": "12,50"
+                    },
+                    "availableOtherVariants": {
+                        "70": "5998304621562",
+                        "80,5": "5998304620671",
+                        "160": "5998304620343",
+                        "2500": "5998304620558",
+                        "5000": "5998304620565"
+                    }
+                },
+                {
+                    "barcode": "5998304620343",
+                    "imgCount": 2,
+                    "productName_hu": "Csemege gulyáskrém 160g",
+                    "productName_en": "Non-spicy Goulasch cream 160g",
+                    "weight": "160",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (68%)",
+                        "étkezési só",
+                        "sűrített paradicsom",
+                        "finomított napraforgó étolaj",
+                        "vöröshagymapor",
+                        "fűszerek",
+                        "cukor",
+                        "módosított kukoricakeményítő",
+                        "ízfokozó (Na-glutamát)",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "zeller",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spices and pritamine peppers (68%)",
+                        "table salt",
+                        "concentrated tomatoes",
+                        "refined sunflower cooking oil",
+                        "red onion powder",
+                        "spices",
+                        "sugar",
+                        "modified corn starch",
+                        "flavor enhancer (Na-glutamate)",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "celery",
+                        "preservative (K-sorbate, Na-benzoate)."
+                    ],
+                    "nutrition_facts": {
+                        "energy_kj": "399",
+                        "energy_kcal": "96",
+                        "fat": "6,40",
+                        "fatty_acids": "0,70",
+                        "carbohydrates": "8,00",
+                        "sugars": "3,00",
+                        "protein": "1,60",
+                        "sodium": "12,50"
+                    },
+                    "availableOtherVariants": {
+                        "70": "5998304621562",
+                        "80,5": "5998304620671",
+                        "160": "5998304620343",
+                        "2500": "5998304620558",
+                        "5000": "5998304620565"
+                    }
+                },
+                {
+                    "barcode": "5998304620558",
+                    "imgCount": 1,
+                    "productName_hu": "Csemege gulyáskrém 2500g",
+                    "productName_en": "Non-spicy Goulasch cream 2500g",
+                    "weight": "2500",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (68%)",
+                        "étkezési só",
+                        "sűrített paradicsom",
+                        "finomított napraforgó étolaj",
+                        "vöröshagymapor",
+                        "fűszerek",
+                        "cukor",
+                        "módosított kukoricakeményítő",
+                        "ízfokozó (Na-glutamát)",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "zeller",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spices and pritamine peppers (68%)",
+                        "table salt",
+                        "concentrated tomatoes",
+                        "refined sunflower cooking oil",
+                        "red onion powder",
+                        "spices",
+                        "sugar",
+                        "modified corn starch",
+                        "flavor enhancer (Na-glutamate)",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "celery",
+                        "preservative (K-sorbate, Na-benzoate)."
+                    ],
+                    "nutrition_facts": {
+                        "energy_kj": "399",
+                        "energy_kcal": "96",
+                        "fat": "6,40",
+                        "fatty_acids": "0,70",
+                        "carbohydrates": "8,00",
+                        "sugars": "3,00",
+                        "protein": "1,60",
+                        "sodium": "12,50"
+                    },
+                    "availableOtherVariants": {
+                        "70": "5998304621562",
+                        "80,5": "5998304620671",
+                        "160": "5998304620343",
+                        "2500": "5998304620558",
+                        "5000": "5998304620565"
+                    }
+                },
+                {
+                    "barcode": "5998304620565",
+                    "imgCount": 1,
+                    "productName_hu": "Csemege gulyáskrém 5000g",
+                    "productName_en": "Non-spicy Goulasch cream 5000g",
+                    "weight": "5000",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (68%)",
+                        "étkezési só",
+                        "sűrített paradicsom",
+                        "finomított napraforgó étolaj",
+                        "vöröshagymapor",
+                        "fűszerek",
+                        "cukor",
+                        "módosított kukoricakeményítő",
+                        "ízfokozó (Na-glutamát)",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "zeller",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spices and pritamine peppers (68%)",
+                        "table salt",
+                        "concentrated tomatoes",
+                        "refined sunflower cooking oil",
+                        "red onion powder",
+                        "spices",
+                        "sugar",
+                        "modified corn starch",
+                        "flavor enhancer (Na-glutamate)",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "celery",
+                        "preservative (K-sorbate, Na-benzoate)."
+                    ],
+                    "nutrition_facts": {
+                        "energy_kj": "399",
+                        "energy_kcal": "96",
+                        "fat": "6,40",
+                        "fatty_acids": "0,70",
+                        "carbohydrates": "8,00",
+                        "sugars": "3,00",
+                        "protein": "1,60",
+                        "sodium": "12,50"
+                    },
+                    "availableOtherVariants": {
+                        "70": "5998304621562",
+                        "80,5": "5998304620671",
+                        "160": "5998304620343",
+                        "2500": "5998304620558",
+                        "5000": "5998304620565"
+                    }
+                },
+                {
+                    "barcode": "5998304621579",
+                    "imgCount": 2,
+                    "productName_hu": "Csemege paprikakrém 70g",
+                    "productName_en": "Non-spicy paprika cream 70g",
+                    "weight": "70",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (85%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (85%)",
+                        "table salt",
+                        "modified corn starch",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304621579",
+                        "80,5": "5998304620657",
+                        "160": "5998304620381",
+                        "2500": "5998304620435",
+                        "5000": "5998304620442"
+                    }
+                },
+                {
+                    "barcode": "5998304620657",
+                    "imgCount": 2,
+                    "productName_hu": "Csemege paprikakrém 80,5g",
+                    "productName_en": "Non-spicy paprika cream 80,5g",
+                    "weight": "80,5",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (85%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (85%)",
+                        "table salt",
+                        "modified corn starch",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304621579",
+                        "80,5": "5998304620657",
+                        "160": "5998304620381",
+                        "2500": "5998304620435",
+                        "5000": "5998304620442"
+                    }
+                },
+                {
+                    "barcode": "5998304620381",
+                    "imgCount": 2,
+                    "productName_hu": "Csemege paprikakrém 160g",
+                    "productName_en": "Non-spicy paprika cream 160g",
+                    "weight": "160",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (85%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (85%)",
+                        "table salt",
+                        "modified corn starch",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304621579",
+                        "80,5": "5998304620657",
+                        "160": "5998304620381",
+                        "2500": "5998304620435",
+                        "5000": "5998304620442"
+                    }
+                },
+                {
+                    "barcode": "5998304620435",
+                    "imgCount": 1,
+                    "productName_hu": "Csemege paprikakrém 2500g",
+                    "productName_en": "Non-spicy paprika cream 2500g",
+                    "weight": "2500",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (85%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (85%)",
+                        "table salt",
+                        "modified corn starch",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304621579",
+                        "80,5": "5998304620657",
+                        "160": "5998304620381",
+                        "2500": "5998304620435",
+                        "5000": "5998304620442"
+                    }
+                },
+                {
+                    "barcode": "5998304620442",
+                    "imgCount": 1,
+                    "productName_hu": "Csemege paprikakrém 5000g",
+                    "productName_en": "Non-spicy paprika cream 5000g",
+                    "weight": "5000",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (85%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (85%)",
+                        "table salt",
+                        "modified corn starch",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304621579",
+                        "80,5": "5998304620657",
+                        "160": "5998304620381",
+                        "2500": "5998304620435",
+                        "5000": "5998304620442"
+                    }
+                },
+                {
+                    "barcode": "5998304621586",
+                    "imgCount": 2,
+                    "productName_hu": "Erős paprikakrém 70g",
+                    "productName_en": "Spicy paprika cream 70g",
+                    "weight": "70",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (erős és édes, 85%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (strong and sweet, 85%)",
+                        "table salt",
+                        "modified corn starch",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304621586",
+                        "160": "5998304620398",
+                        "2500": "5998304620459",
+                        "5000": "5998304620466"
+                    }
+                },
+                {
+                    "barcode": "5998304620398",
+                    "imgCount": 2,
+                    "productName_hu": "Erős paprikakrém 160g",
+                    "productName_en": "Spicy paprika cream 160g",
+                    "weight": "160",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (erős és édes, 85%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (strong and sweet, 85%)",
+                        "table salt",
+                        "modified corn starch",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304621586",
+                        "160": "5998304620398",
+                        "2500": "5998304620459",
+                        "5000": "5998304620466"
+                    }
+                },
+                {
+                    "barcode": "5998304620459",
+                    "imgCount": 1,
+                    "productName_hu": "Erős paprikakrém 2500g",
+                    "productName_en": "Spicy paprika cream 2500g",
+                    "weight": "2500",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (erős és édes, 85%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (strong and sweet, 85%)",
+                        "table salt",
+                        "modified corn starch",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304621586",
+                        "160": "5998304620398",
+                        "2500": "5998304620459",
+                        "5000": "5998304620466"
+                    }
+                },
+                {
+                    "barcode": "5998304620466",
+                    "imgCount": 1,
+                    "productName_hu": "Erős paprikakrém 5000g",
+                    "productName_en": "Spicy paprika cream 5000g",
+                    "weight": "5000",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Nyers fűszer- és pritaminpaprika (erős és édes, 85%)",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "sűrítőanyag (xantán)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát, Na-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Raw spice and pritamine paprika (strong and sweet, 85%)",
+                        "table salt",
+                        "modified corn starch",
+                        "thickener (xanthan)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate, Na-benzoate)"
+                    ],
+                    "availableOtherVariants": {
+                        "70": "5998304621586",
+                        "160": "5998304620398",
+                        "2500": "5998304620459",
+                        "5000": "5998304620466"
+                    }
+                },
+                {
+                    "barcode": "5998304620404",
+                    "imgCount": 2,
+                    "productName_hu": "Pizzakrém 160g",
+                    "productName_en": "Pizza cream 160g",
+                    "weight": "160",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "16 db / karton",
+                    "packagingInfo_en": "16 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Sűrített paradicsom (37%)",
+                        "ivóvíz",
+                        "cukor",
+                        "étkezési só",
+                        "ételecet",
+                        "finomított napraforgó étolaj",
+                        "vöröshagyma",
+                        "nyers fűszer- és pritaminpaprika",
+                        "fokhagyma",
+                        "módosított kukoricakeményítő",
+                        "ízfokozó (nátrium-glutamát)",
+                        "sűrítőanyag (xantángumi)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (kálium-szorbát)",
+                        "aroma",
+                        "antioxidáns (kalcium-dinátrium-EDTA)"
+                    ],
+                    "ingredients_en": [
+                        "Concentrated tomatoes (37%)",
+                        "drinking water",
+                        "sugar",
+                        "table salt",
+                        "table vinegar",
+                        "refined sunflower cooking oil",
+                        "red onion",
+                        "raw spices and pritamine peppers",
+                        "garlic",
+                        "modified corn starch",
+                        "flavor enhancer (sodium glutamate)",
+                        "thickener (xanthan gum)",
+                        "food acid (citric acid)", 
+                        "preservative (potassium sorbate)",
+                        "aroma",
+                        "antioxidant (calcium disodium EDTA)"
+                    ],
+                    "availableOtherVariants": {
+                        "160": "5998304620404",
+                        "350": "5998304620183",
+                        "2500": "5998304620633",
+                        "5000": "5998304620640"
+                    }
+                },
+                {
+                    "barcode": "5998304620183",
+                    "imgCount": 2,
+                    "productName_hu": "Pizzakrém 350g",
+                    "productName_en": "Pizza cream 350g",
+                    "weight": "350",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "6 db / karton",
+                    "packagingInfo_en": "6 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Sűrített paradicsom (37%)",
+                        "ivóvíz",
+                        "cukor",
+                        "étkezési só",
+                        "ételecet",
+                        "finomított napraforgó étolaj",
+                        "vöröshagyma",
+                        "nyers fűszer- és pritaminpaprika",
+                        "fokhagyma",
+                        "módosított kukoricakeményítő",
+                        "ízfokozó (nátrium-glutamát)",
+                        "sűrítőanyag (xantángumi)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (kálium-szorbát)",
+                        "aroma",
+                        "antioxidáns (kalcium-dinátrium-EDTA)"
+                    ],
+                    "ingredients_en": [
+                        "Concentrated tomatoes (37%)",
+                        "drinking water",
+                        "sugar",
+                        "table salt",
+                        "table vinegar",
+                        "refined sunflower cooking oil",
+                        "red onion",
+                        "raw spices and pritamine peppers",
+                        "garlic",
+                        "modified corn starch",
+                        "flavor enhancer (sodium glutamate)",
+                        "thickener (xanthan gum)",
+                        "food acid (citric acid)", 
+                        "preservative (potassium sorbate)",
+                        "aroma",
+                        "antioxidant (calcium disodium EDTA)"
+                    ],
+                    "availableOtherVariants": {
+                        "160": "5998304620404",
+                        "350": "5998304620183",
+                        "2500": "5998304620633",
+                        "5000": "5998304620640"
+                    }
+                },
+                {
+                    "barcode": "5998304620633",
+                    "imgCount": 1,
+                    "productName_hu": "Pizzakrém 2500g",
+                    "productName_en": "Pizza cream 2500g",
+                    "weight": "2500",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Sűrített paradicsom (37%)",
+                        "ivóvíz",
+                        "cukor",
+                        "étkezési só",
+                        "ételecet",
+                        "finomított napraforgó étolaj",
+                        "vöröshagyma",
+                        "nyers fűszer- és pritaminpaprika",
+                        "fokhagyma",
+                        "módosított kukoricakeményítő",
+                        "ízfokozó (nátrium-glutamát)",
+                        "sűrítőanyag (xantángumi)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (kálium-szorbát)",
+                        "aroma",
+                        "antioxidáns (kalcium-dinátrium-EDTA)"
+                    ],
+                    "ingredients_en": [
+                        "Concentrated tomatoes (37%)",
+                        "drinking water",
+                        "sugar",
+                        "table salt",
+                        "table vinegar",
+                        "refined sunflower cooking oil",
+                        "red onion",
+                        "raw spices and pritamine peppers",
+                        "garlic",
+                        "modified corn starch",
+                        "flavor enhancer (sodium glutamate)",
+                        "thickener (xanthan gum)",
+                        "food acid (citric acid)", 
+                        "preservative (potassium sorbate)",
+                        "aroma",
+                        "antioxidant (calcium disodium EDTA)"
+                    ],
+                    "availableOtherVariants": {
+                        "160": "5998304620404",
+                        "350": "5998304620183",
+                        "2500": "5998304620633",
+                        "5000": "5998304620640"
+                    }
+                },
+                {
+                    "barcode": "5998304620640",
+                    "imgCount": 1,
+                    "productName_hu": "Pizzakrém 5000g",
+                    "productName_en": "Pizza cream 5000g",
+                    "weight": "5000",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Sűrített paradicsom (37%)",
+                        "ivóvíz",
+                        "cukor",
+                        "étkezési só",
+                        "ételecet",
+                        "finomított napraforgó étolaj",
+                        "vöröshagyma",
+                        "nyers fűszer- és pritaminpaprika",
+                        "fokhagyma",
+                        "módosított kukoricakeményítő",
+                        "ízfokozó (nátrium-glutamát)",
+                        "sűrítőanyag (xantángumi)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (kálium-szorbát)",
+                        "aroma",
+                        "antioxidáns (kalcium-dinátrium-EDTA)"
+                    ],
+                    "ingredients_en": [
+                        "Concentrated tomatoes (37%)",
+                        "drinking water",
+                        "sugar",
+                        "table salt",
+                        "table vinegar",
+                        "refined sunflower cooking oil",
+                        "red onion",
+                        "raw spices and pritamine peppers",
+                        "garlic",
+                        "modified corn starch",
+                        "flavor enhancer (sodium glutamate)",
+                        "thickener (xanthan gum)",
+                        "food acid (citric acid)", 
+                        "preservative (potassium sorbate)",
+                        "aroma",
+                        "antioxidant (calcium disodium EDTA)"
+                    ],
+                    "availableOtherVariants": {
+                        "160": "5998304620404",
+                        "350": "5998304620183",
+                        "2500": "5998304620633",
+                        "5000": "5998304620640"
+                    }
+                },
+                {
+                    "barcode": "5998304621548",
+                    "imgCount": 1,
+                    "productName_hu": "Ketchup 750g",
+                    "productName_en": "Ketchup 750g",
+                    "weight": "750",
+                    "shelfLife_hu": "Gyártástól számított 12 hónap",
+                    "shelfLife_en": "12 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Ivóvíz",
+                        "sűrített paradicsom (28%)",
+                        "cukor",
+                        "ételecet",
+                        "módosított kukoricakeményítő",
+                        "étkezési só",
+                        "fűszer",
+                        "sűrítőanyag (xantán)",
+                        "tartósítószerek (Na-benzoát, K-szorbát)",
+                        "aroma"
+                    ],
+                    "ingredients_en": [
+                        "Drinking water",
+                        "concentrated tomatoes (28%)",
+                        "sugar",
+                        "food vinegar",
+                        "modified corn starch",
+                        "table salt",
+                        "spice",
+                        "thickener (xanthan)",
+                        "preservatives (Na-benzoate, K-sorbate)",
+                        "aroma"
+                    ]
+                },
+                {
+                    "barcode": "5998304620985",
+                    "imgCount": 1,
+                    "productName_hu": "Kőrös ketchup 800g",
+                    "productName_en": "Kőrös ketchup 800g",
+                    "weight": "800",
+                    "shelfLife_hu": "Gyártástól számított 12 hónap",
+                    "shelfLife_en": "12 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Ivóvíz",
+                        "sűrített paradicsom",
+                        "cukor",
+                        "ételecet",
+                        "étkezési só",
+                        "módosított kukoricakeményítő",
+                        "sűrítőanyag (xantán-gumi)",
+                        "tartósítószerek (K-szorbát, Na-benzoát)",
+                        "antioxidáns (aszkorbinsav)",
+                        "fűszeraroma"
+                    ],
+                    "ingredients_en": [
+                        "Drinking water",
+                        "concentrated tomatoes",
+                        "sugar",
+                        "food vinegar",
+                        "table salt",
+                        "modified corn starch",
+                        "thickener (xanthan gum)",
+                        "preservatives (K-sorbate, Na-benzoate)",
+                        "antioxidant (ascorbic acid)",
+                        "spice aroma"
+                    ]
+                },
+                {
+                    "barcode": "5998304620763",
+                    "imgCount": 1,
+                    "productName_hu": "Csípős ketchup 500g",
+                    "productName_en": "Hot Ketchup 500g",
+                    "weight": "500",
+                    "shelfLife_hu": "Gyártástól számított 12 hónap",
+                    "shelfLife_en": "12 months after production",
+                    "packagingInfo_hu": "6 db / karton",
+                    "packagingInfo_en": "6 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Ivóvíz",
+                        "sűrített paradicsom (28%)",
+                        "cukor",
+                        "ételecet",
+                        "módosított kukoricakeményítő",
+                        "étkezési só",
+                        "Chili paprika (0.4%)",
+                        "sűrítőanyag (xantán)",
+                        "tartósítószerek (K-szorbát, Na-benzoát)",
+                        "aromák"
+                    ],
+                    "ingredients_en": [
+                        "Drinking water",
+                        "concentrated tomatoes (28%)",
+                        "sugar",
+                        "food vinegar",
+                        "modified corn starch",
+                        "table salt",
+                        "Chili pepper (0.4%)",
+                        "thickener (xanthan)",
+                        "preservatives (K-sorbate, Na-benzoate)",
+                        "aromas"
+                    ]
+                },
+                {
+                    "barcode": "5998304621524",
+                    "imgCount": 1,
+                    "productName_hu": "Mustár 670g",
+                    "productName_en": "Mustard 670g",
+                    "weight": "670",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Ivóvíz",
+                        "mustármag (18%)",
+                        "ételecet",
+                        "cukor",
+                        "étkezési só",
+                        "fűszerek",
+                        "tartósítószer (K-szorbát)",
+                        "aroma"
+                    ],
+                    "ingredients_en": [
+                        "Drinking water",
+                        "mustard seed (18%)",
+                        "vinegar",
+                        "sugar",
+                        "table salt",
+                        "spices",
+                        "preservative (K-sorbate)",
+                        "aroma"
+                    ],
+                    "availableOtherVariants": {
+                        "670": "5998304621524",
+                        "2500": "5998304620619",
+                        "5000": "5998304620626"
+                    }
+                },
+                {
+                    "barcode": "5998304620619",
+                    "imgCount": 1,
+                    "productName_hu": "Mustár 2500g",
+                    "productName_en": "Mustard 2500g",
+                    "weight": "2500",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Ivóvíz",
+                        "mustármag (18%)",
+                        "ételecet",
+                        "cukor",
+                        "étkezési só",
+                        "fűszerek",
+                        "tartósítószer (K-szorbát)",
+                        "aroma"
+                    ],
+                    "ingredients_en": [
+                        "Drinking water",
+                        "mustard seed (18%)",
+                        "vinegar",
+                        "sugar",
+                        "table salt",
+                        "spices",
+                        "preservative (K-sorbate)",
+                        "aroma"
+                    ],
+                    "availableOtherVariants": {
+                        "670": "5998304621524",
+                        "2500": "5998304620619",
+                        "5000": "5998304620626"
+                    }
+                },
+                {
+                    "barcode": "5998304620626",
+                    "imgCount": 1,
+                    "productName_hu": "Mustár 5000g",
+                    "productName_en": "Mustard 5000g",
+                    "weight": "5000",
+                    "shelfLife_hu": "Gyártástól számított 9 hónap",
+                    "shelfLife_en": "9 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Ivóvíz",
+                        "mustármag (18%)",
+                        "ételecet",
+                        "cukor",
+                        "étkezési só",
+                        "fűszerek",
+                        "tartósítószer (K-szorbát)",
+                        "aroma"
+                    ],
+                    "ingredients_en": [
+                        "Drinking water",
+                        "mustard seed (18%)",
+                        "vinegar",
+                        "sugar",
+                        "table salt",
+                        "spices",
+                        "preservative (K-sorbate)",
+                        "aroma"
+                    ],
+                    "availableOtherVariants": {
+                        "670": "5998304621524",
+                        "2500": "5998304620619",
+                        "5000": "5998304620626"
+                    }
+                },
+                {
+                    "barcode": "5998304621531",
+                    "imgCount": 1,
+                    "productName_hu": "Majonéz édesítőszerrel 670g",
+                    "productName_en": "Mayonnaise with sweetener 670g",
+                    "weight": "670",
+                    "shelfLife_hu": "Gyártástól számított 6 hónap",
+                    "shelfLife_en": "6 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Ivóvíz",
+                        "finomított napraforgó étolaj (24%)",
+                        "maltodextrin",
+                        "ételecet",
+                        "módosított kukoricakeményítő",
+                        "tojássárgájapor",
+                        "étkezési só",
+                        "mustármag",
+                        "étkezési sav (citromsav)",
+                        "sűrítőanyag (xantán)",
+                        "édesítőszer (aceszulfám-K)",
+                        "tartósítószer (K-szorbát, Na-benzoát)",
+                        "aroma",
+                        "antioxidáns (EDTA)"
+                    ],
+                    "ingredients_en": [
+                        "Drinking water",
+                        "refined sunflower cooking oil (24%)",
+                        "maltodextrin",
+                        "food vinegar",
+                        "modified corn starch",
+                        "egg yolk powder",
+                        "table salt",
+                        "mustard seed",
+                        "table acid (citric acid)",
+                        "thickener (xanthan)",
+                        "sweetener (acesulfame-K)",
+                        "preservative (K-sorbate, Na-benzoate)",
+                        "aroma",
+                        "antioxidant (EDTA)"
+                    ]
+                },
+                {
+                    "barcode": "5998304620572",
+                    "imgCount": 1,
+                    "productName_hu": "Majonéz 2500g",
+                    "productName_en": "Mayonnaise 2500g",
+                    "weight": "2500",
+                    "shelfLife_hu": "Gyártástól számított 6 hónap",
+                    "shelfLife_en": "6 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Finomított napraforgó étolaj (55%)",
+                        "ivóvíz",
+                        "ecet",
+                        "cukor",
+                        "tojássárgájapor (3%)",
+                        "étkezési só",
+                        "mustármag",
+                        "módosított keményítő",
+                        "sűrítőanyag (xantángumi)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát)",
+                        "fűszerek",
+                        "aroma",
+                        "antioxidáns (kálium-dinátrium-EDTA)"
+                    ],
+                    "ingredients_en": [
+                        "Refined sunflower cooking oil (55%)",
+                        "drinking water",
+                        "vinegar",
+                        "sugar",
+                        "egg yolk powder (3%)",
+                        "table salt",
+                        "mustard seed",
+                        "modified starch",
+                        "thickener (xanthan gum)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate)",
+                        "spices",
+                        "aroma",
+                        "antioxidant (potassium disodium EDTA)"
+                    ],
+                    "availableOtherVariants": {
+                        "2500": "5998304620572",
+                        "5000": "5998304620589"
+                    }
+                },
+                {
+                    "barcode": "5998304620589",
+                    "imgCount": 1,
+                    "productName_hu": "Majonéz 5000g",
+                    "productName_en": "Mayonnaise 5000g",
+                    "weight": "5000",
+                    "shelfLife_hu": "Gyártástól számított 6 hónap",
+                    "shelfLife_en": "6 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Finomított napraforgó étolaj (55%)",
+                        "ivóvíz",
+                        "ecet",
+                        "cukor",
+                        "tojássárgájapor (3%)",
+                        "étkezési só",
+                        "mustármag",
+                        "módosított keményítő",
+                        "sűrítőanyag (xantángumi)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószer (K-szorbát)",
+                        "fűszerek",
+                        "aroma",
+                        "antioxidáns (kálium-dinátrium-EDTA)"
+                    ],
+                    "ingredients_en": [
+                        "Refined sunflower cooking oil (55%)",
+                        "drinking water",
+                        "vinegar",
+                        "sugar",
+                        "egg yolk powder (3%)",
+                        "table salt",
+                        "mustard seed",
+                        "modified starch",
+                        "thickener (xanthan gum)",
+                        "food acid (citric acid)",
+                        "preservative (K-sorbate)",
+                        "spices",
+                        "aroma",
+                        "antioxidant (potassium disodium EDTA)"
+                    ],
+                    "availableOtherVariants": {
+                        "2500": "5998304620572",
+                        "5000": "5998304620589"
+                    }
+                },
+                {
+                    "barcode": "5998304621432",
+                    "imgCount": 2,
+                    "productName_hu": "Barbeque szósz 350g",
+                    "productName_en": "Barbeque sauce 350g",
+                    "weight": "350",
+                    "shelfLife_hu": "Gyártástól számított 12 hónap",
+                    "shelfLife_en": "12 months after production",
+                    "packagingInfo_hu": "9 db / karton",
+                    "packagingInfo_en": "9 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Ivóvíz",
+                        "cukor",
+                        "sűrített paradicsom (18%) almaecet",
+                        "borecet",
+                        "módosított keményítő",
+                        "étkezési só",
+                        "mustár [ivóvíz, ecet, mustármag, cukor, étkezési só, tartósítószer (nátrium-benzoát), kurkuma, fűszerek]",
+                        "glükóz-fruktózszörp",
+                        "sűrítőanyag (xantángumi)",
+                        "étkezési sav (citromsav)",
+                        "füstaroma",
+                        "tartósítószerek (kálium-szorbát, nátrium-benzoát)",
+                        "ízfokozó (nátrium-glutamát)"
+                    ],
+                    "ingredients_en": [
+                        "Drinking water",
+                        "sugar",
+                        "concentrated tomatoes (18%)",
+                        "apple cider vinegar",
+                        "wine vinegar",
+                        "modified starch",
+                        "table salt",
+                        "mustard [drinking water, vinegar, mustard seeds, sugar, table salt, preservative (sodium benzoate), turmeric, spices]",
+                        "glucose-fructose syrup",
+                        "thickener (xanthan gum)",
+                        "food acid (citric acid)",
+                        "smoke aroma",
+                        "preservatives (potassium sorbate, sodium benzoate)",
+                        "flavor enhancer (sodium glutamate)"
+                    ]
+                },
+                {
+                    "barcode": "5998304621449",
+                    "imgCount": 2,
+                    "productName_hu": "Chili szósz 350g",
+                    "productName_en": "Chili sauce 350g",
+                    "weight": "350",
+                    "shelfLife_hu": "Gyártástól számított 12 hónap",
+                    "shelfLife_en": "12 months after production",
+                    "packagingInfo_hu": "9 db / karton",
+                    "packagingInfo_en": "9 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Ivóvíz",
+                        "cukor",
+                        "paprikakrém (13,5%) [nyers fűszer- és pritaminpaprika (85%), étkezési só, módosított keményítő, sűrítőanyag (xantángumi), étkezési sav (citromsav), tartósítószer (K-szorbát)]",
+                        "ecet",
+                        "sűrített paradicsom",
+                        "módosított keményítő",
+                        "chili paprika őrlemény (1","4%)",
+                        "fűszer",
+                        "étkezési só",
+                        "sűrítőanyag (xantángumi)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószerek (kálium-szorbát, nátrium-benzoát)",
+                        "aroma"
+                    ],
+                    "ingredients_en": [
+                        "Drinking water",
+                        "sugar",
+                        "paprika cream (13.5%) [raw allspice and pritamine paprika (85%), table salt, modified starch, thickener (xanthan gum), food acid (citric acid), preservative (K-sorbate)]",
+                        "vinegar",
+                        "concentrated tomato",
+                        "modified starch",
+                        "ground chili pepper (1.4%)",
+                        "spice",
+                        "table salt",
+                        "thickener (xanthan gum)",
+                        "food acid (citric acid)",
+                        "preservatives (potassium sorbate, sodium benzoate)",
+                        "aroma"
+                    ]
+                },
+                {
+                    "barcode": "5998304621456",
+                    "imgCount": 2,
+                    "productName_hu": "Steak szósz 350g",
+                    "productName_en": "Steak sauce 350g",
+                    "weight": "350",
+                    "shelfLife_hu": "Gyártástól számított 12 hónap",
+                    "shelfLife_en": "12 months after production",
+                    "packagingInfo_hu": "9 db / karton",
+                    "packagingInfo_en": "9 pcs / cardboard",
+                    "storeInFridge": true,
+                    "ingredients_hu": [
+                        "Ivóvíz",
+                        "cukor",
+                        "sűrített paradicsom (16%)",
+                        "ecet",
+                        "mustár [ivóvíz, ecet, mustármag, cukor, étkezési só, tartósítószer (nátrium-benzoát), kurkuma]",
+                        "vöröshagyma dara",
+                        "étkezési só",
+                        "módosított keményítő",
+                        "fokhagyma dara",
+                        "fűszerek",
+                        "glükóz-fruktózszörp",
+                        "sűrítőanyag (xantángumi)",
+                        "étkezési sav (citromsav)",
+                        "tartósítószerek (kálium-szorbát, nátrium-benzoát)"
+                    ],
+                    "ingredients_en": [
+                        "Drinking water",
+                        "sugar",
+                        "concentrated tomatoes (16%)",
+                        "vinegar",
+                        "mustard [drinking water, vinegar, mustard seeds, sugar, table salt, preservative (sodium benzoate), turmeric]",
+                        "onion meal",
+                        "table salt",
+                        "modified starch",
+                        "garlic powder",
+                        "spices",
+                        "glucose-fructose syrup",
+                        "thickener (xanthan gum)",
+                        "edible acid (citric acid)",
+                        "preservatives (potassium sorbate, sodium benzoate)"
+                    ]
+                }
+            ]
+        },
+        "aromas": {
+            "categoryPath": "aromas",
+            "categoryName_hu": "Aromák",
+            "categoryName_en": "Aromas",
+            "products": [
+                {
+                    "barcode": "5997210711237",
+                    "imgCount": 3,
+                    "productName_hu": "Barack aroma 30ml",
+                    "productName_en": "Peach aroma 30ml",
+                    "weight": "30", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "20 db / kínáló doboz, 320 db / karton",
+                    "packagingInfo_en": "20 pcs / display box, 320 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (41 V/V%)",
+                        "színezékek (E102, E122, E131)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1504", 
+                        "E1505",
+                        "E1518",
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (41 V/V%)",
+                        "coloring (E102, E122, E131)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1504",
+                        "E1505",
+                        "E1518",
+                        "E1520"
+                    ]
+                },
+                {
+                    "barcode": "5997210713231",
+                    "imgCount": 3,
+                    "productName_hu": "Bonbonmeggy aroma 30ml",
+                    "productName_en": "Sweet cherries aroma 30ml",
+                    "weight": "30", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "20 db / kínáló doboz, 320 db / karton",
+                    "packagingInfo_en": "20 pcs / display box, 320 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (30 V/V%)",
+                        "aromák",
+                        "színezékek (E102, E122, E124, E131, E151)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1504", 
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (30 V/V%)",
+                        "aromas",
+                        "coloring (E102, E122, E124, E131, E151)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1504",
+                        "E1520"
+                    ]
+                },
+                {
+                    "barcode": "5997210711534",
+                    "imgCount": 3,
+                    "productName_hu": "Brandy aroma 30ml",
+                    "productName_en": "Brandy aroma 30ml",
+                    "weight": "30", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "20 db / kínáló doboz, 320 db / karton",
+                    "packagingInfo_en": "20 pcs / display box, 320 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (28 V/V%)",
+                        "aromák",
+                        "színezékek (E102, E122, E131)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1504", 
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (28 V/V%)",
+                        "aromas",
+                        "coloring (E102, E122, E131)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1504",
+                        "E1520"
+                    ]
+                },
+                {
+                    "barcode": "5997210712234",
+                    "imgCount": 3,
+                    "productName_hu": "Császárkörte aroma 30ml",
+                    "productName_en": "Emperor pear aroma 30ml",
+                    "weight": "30", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "20 db / kínáló doboz, 320 db / karton",
+                    "packagingInfo_en": "20 pcs / display box, 320 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (39 V/V%)",
+                        "színezékek (E110, E124)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1518", 
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (39 V/V%)",
+                        "coloring (E110, E124)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1518",
+                        "E1520"
+                    ]
+                },
+                {
+                    "barcode": "5997210712432",
+                    "imgCount": 3,
+                    "productName_hu": "Csokoládé aroma 30ml",
+                    "productName_en": "Chocolate aroma 30ml",
+                    "weight": "30", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "20 db / kínáló doboz, 320 db / karton",
+                    "packagingInfo_en": "20 pcs / display box, 320 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (25 V/V%)",
+                        "aromák",
+                        "színezékek (E102, E122, E131)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1504", 
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (25 V/V%)",
+                        "aromas",
+                        "coloring (E102, E122, E131)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1504",
+                        "E1520"
+                    ]
+                },
+                {
+                    "barcode": "5997210712838",
+                    "imgCount": 3,
+                    "productName_hu": "Mandula aroma 30ml",
+                    "productName_en": "Almond aroma 30ml",
+                    "weight": "30", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "20 db / kínáló doboz, 320 db / karton",
+                    "packagingInfo_en": "20 pcs / display box, 320 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (36 V/V%)",
+                        "aromák",
+                        "színezékek (E102, E131)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (36 V/V%)",
+                        "aromas",
+                        "coloring (E102, E131)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1520"
+                    ]
+                },
+                {
+                    "barcode": "5997210711633",
+                    "imgCount": 3,
+                    "productName_hu": "Kingston rum aroma 30ml",
+                    "productName_en": "Kingston rum aroma 30ml",
+                    "weight": "30", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "20 db / kínáló doboz, 320 db / karton",
+                    "packagingInfo_en": "20 pcs / display box, 320 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (15 V/V%)",
+                        "aromák",
+                        "színezékek (E102, E122, E131)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1504",
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (15 V/V%)",
+                        "aromas",
+                        "coloring (E102, E122, E131)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1504",
+                        "E1520"
+                    ],
+                    "availableOtherVariants": {
+                        "30": "5997210711633",
+                        "1000": "5997210711688"
+                    }
+                },
+                {
+                    "barcode": "5997210713132",
+                    "imgCount": 3,
+                    "productName_hu": "Jamaicai rum aroma 30ml",
+                    "productName_en": "Jamaican rum aroma 30ml",
+                    "weight": "30", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "20 db / kínáló doboz, 320 db / karton",
+                    "packagingInfo_en": "20 pcs / display box, 320 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (46 V/V%)",
+                        "aromák",
+                        "színezékek (E102, E122, E131)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1504",
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (46 V/V%)",
+                        "aromas",
+                        "coloring (E102, E122, E131)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1504",
+                        "E1520"
+                    ]
+                },
+                {
+                    "barcode": "5997210713439",
+                    "imgCount": 3,
+                    "productName_hu": "Vanília aroma 30ml",
+                    "productName_en": "Vanilla aroma 30ml",
+                    "weight": "30", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "20 db / kínáló doboz, 320 db / karton",
+                    "packagingInfo_en": "20 pcs / display box, 320 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (35 V/V%)",
+                        "aromák",
+                        "színezékek (E102, E122, E131)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1504",
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (35 V/V%)",
+                        "aromas",
+                        "coloring (E102, E122, E131)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1504",
+                        "E1520"
+                    ]
+                },
+                {
+                    "barcode": "5997210711435",
+                    "imgCount": 3,
+                    "productName_hu": "Vilmoskörte aroma 30ml",
+                    "productName_en": "Williams pear aroma 30ml",
+                    "weight": "30", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "20 db / kínáló doboz, 320 db / karton",
+                    "packagingInfo_en": "20 pcs / display box, 320 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (32 V/V%)",
+                        "aromák"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (35 V/V%)",
+                        "aromas"
+                    ]
+                },
+                {
+                    "barcode": "5997210711688",
+                    "productName_hu": "Kingston rum aroma 1l",
+                    "productName_en": "Kingston rum aroma 1l",
+                    "weight": "1000", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "",
+                    "packagingInfo_en": "",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (15 V/V%)",
+                        "aromák",
+                        "színezékek (E102, E122, E131)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1504",
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (15 V/V%)",
+                        "aromas",
+                        "coloring (E102, E122, E131)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1504",
+                        "E1520"
+                    ],
+                    "availableOtherVariants": {
+                        "30": "5997210711633",
+                        "1000": "5997210711688"
+                    }
+                },
+                {
+                    "barcode": "5997210713484",
+                    "productName_hu": "Vanília aroma 1l",
+                    "productName_en": "Vanilla aroma 1l",
+                    "weight": "1000", 
+                    "shelfLife_hu": "Gyártástól számított 24 hónap",
+                    "shelfLife_en": "24 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Víz",
+                        "etil-alkohol (35 V/V%)",
+                        "aromák",
+                        "színezékek (E102, E122, E131)",
+                        "tartósítószerek (E202, E211)",
+                        "étkezési sav (citromsav)",
+                        "E1504",
+                        "E1520"
+                    ],
+                    "ingredients_en": [
+                        "Water",
+                        "ethyl alcohol (35 V/V%)",
+                        "aromas",
+                        "coloring (E102, E122, E131)",
+                        "preservatives (E202, E211)",
+                        "food acid (citric acid)",
+                        "E1504",
+                        "E1520"
+                    ],
+                    "availableOtherVariants": {
+                        "30": "5997210713439",
+                        "1000": "5997210713484"
+                    }
+                }
+            ]
+        },
+        "pasta": {
+            "categoryPath": "pasta",
+            "categoryName_hu": "Tészták",
+            "categoryName_en": "Pasta",
+            "products": [
+                {
+                    "barcode": "5948935000267",
+                    "imgCount": 2,
+                    "productName_hu": "Gluténmentes tészta Penne 500g",
+                    "productName_en": "Gluten-free pasta Penne 500g",
+                    "weight": "500",
+                    "shelfLife_hu": "Gyártástól számított 36 hónap",
+                    "shelfLife_en": "36 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Kukoricaliszt (86,5%)",
+                        "ivóvíz"
+                    ],
+                    "ingredients_en": [
+                        "Corn flour (86.5%)",
+                        "drinking water"
+                    ]
+                },
+                {
+                    "barcode": "5948935000274",
+                    "imgCount": 2,
+                    "productName_hu": "Gluténmentes tészta Spirál 500g",
+                    "productName_en": "Gluten-free pasta Spiral 500g",
+                    "weight": "500",
+                    "shelfLife_hu": "Gyártástól számított 36 hónap",
+                    "shelfLife_en": "36 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Kukoricaliszt (86,5%)",
+                        "ivóvíz"
+                    ],
+                    "ingredients_en": [
+                        "Corn flour (86.5%)",
+                        "drinking water"
+                    ]
+                },
+                {
+                    "barcode": "5948935002605",
+                    "imgCount": 2,
+                    "productName_hu": "Gluténmentes tészta Spagetti 500g",
+                    "productName_en": "Gluten-free pasta Spaghetti 500g",
+                    "weight": "500",
+                    "shelfLife_hu": "Gyártástól számított 36 hónap",
+                    "shelfLife_en": "36 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Kukoricaliszt (86,5%)",
+                        "ivóvíz"
+                    ],
+                    "ingredients_en": [
+                        "Corn flour (86.5%)",
+                        "drinking water"
+                    ]
+                },
+                {
+                    "barcode": "5948935002629",
+                    "imgCount": 2,
+                    "productName_hu": "Gluténmentes tészta Szélesmetélt 500g",
+                    "productName_en": "Gluten-free pasta Wide-cut 500g",
+                    "weight": "500",
+                    "shelfLife_hu": "Gyártástól számított 36 hónap",
+                    "shelfLife_en": "36 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Kukoricaliszt (86,5%)",
+                        "ivóvíz"
+                    ],
+                    "ingredients_en": [
+                        "Corn flour (86.5%)",
+                        "drinking water"
+                    ]
+                },
+                {
+                    "barcode": "5948935000212",
+                    "imgCount": 2,
+                    "productName_hu": "Gluténmentes tészta Könyök 500g",
+                    "productName_en": "Gluten-free pasta Elbow 500g",
+                    "weight": "500",
+                    "shelfLife_hu": "Gyártástól számított 36 hónap",
+                    "shelfLife_en": "36 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Kukoricaliszt (86,5%)",
+                        "ivóvíz"
+                    ],
+                    "ingredients_en": [
+                        "Corn flour (86.5%)",
+                        "drinking water"
+                    ]
+                },
+                {
+                    "barcode": "5941634004208",
+                    "imgCount": 2,
+                    "productName_hu": "Gluténmentes tészta Cérnametélt 500g",
+                    "productName_en": "Gluten-free pasta Noodles 500g",
+                    "weight": "500",
+                    "shelfLife_hu": "Gyártástól számított 36 hónap",
+                    "shelfLife_en": "36 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Kukoricaliszt (86,5%)",
+                        "ivóvíz"
+                    ],
+                    "ingredients_en": [
+                        "Corn flour (86.5%)",
+                        "drinking water"
+                    ]
+                },
+                {
+                    "barcode": "5948935003589",
+                    "imgCount": 2,
+                    "productName_hu": "Gluténmentes tészta Betű 500g",
+                    "productName_en": "Gluten-free pasta Letter 500g",
+                    "weight": "500",
+                    "shelfLife_hu": "Gyártástól számított 36 hónap",
+                    "shelfLife_en": "36 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Kukoricaliszt (86,5%)",
+                        "ivóvíz"
+                    ],
+                    "ingredients_en": [
+                        "Corn flour (86.5%)",
+                        "drinking water"
+                    ]
+                },
+                {
+                    "barcode": "5948935003596",
+                    "imgCount": 2,
+                    "productName_hu": "Gluténmentes tészta Kacsa 500g",
+                    "productName_en": "Gluten-free pasta Duck 500g",
+                    "weight": "500",
+                    "shelfLife_hu": "Gyártástól számított 36 hónap",
+                    "shelfLife_en": "36 months after production",
+                    "packagingInfo_hu": "12 db / karton",
+                    "packagingInfo_en": "12 pcs / cardboard",
+                    "ingredients_hu": [
+                        "Kukoricaliszt (86,5%)",
+                        "ivóvíz"
+                    ],
+                    "ingredients_en": [
+                        "Corn flour (86.5%)",
+                        "drinking water"
+                    ]
+                }
+            ]
+        }
+    }
+}
