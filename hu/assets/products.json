@@ -2479,6 +2479,7 @@
                 },
                 {
                     "barcode": "5997210711688",
+                    "imgCount": 2,
                     "productName_hu": "Kingston rum aroma 1l",
                     "productName_en": "Kingston rum aroma 1l",
                     "weight": "1000", 
@@ -2513,6 +2514,7 @@
                 },
                 {
                     "barcode": "5997210713484",
+                    "imgCount": 2,
                     "productName_hu": "Vanília aroma 1l",
                     "productName_en": "Vanilla aroma 1l",
                     "weight": "1000", 
